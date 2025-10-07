@@ -1,4 +1,4 @@
-#Habi.ai
+# Habi.ai
 
 Habi.ai is an AI Agent that will be used to help people create, and do
 habits that they have been wanting too do. Habi.ai will get the users current
